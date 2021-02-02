@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+main div {
+  font-size: 1.6em;
+}
+
+.em-size {
+  font-size: 1em;
+}
+
+.rem-size {
+  font-size: 1.6rem;
+}
